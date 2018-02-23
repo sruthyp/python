@@ -1,0 +1,14 @@
+a=10
+b=3
+c=5
+d=2
+e=5
+r=2
+t=3
+s=6
+p=8
+v=9
+print(a+b)
+print(a-b)
+print(d*a)
+print(p/r)
